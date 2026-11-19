@@ -1,15 +1,28 @@
 # AfterPlay
 
-Lecteur Android pour les likes, les playlists et les fichiers déjà sur le téléphone. Pas de compte obligatoire.
+Lecteur Android. La musique continue quand le réseau lâche.
 
-**Site :** https://afterplay.dev
+**[Télécharger sur afterplay.dev](https://afterplay.dev)**
 
-AfterPlay est une appli à part, modifiée par Vander, basée sur RiMusic (GPL-3.0). Le code n’est pas dans ce dépôt.
+<p>
+  <img src="ecran-accueil.png" alt="Accueil AfterPlay" width="240">
+  <img src="ecran-lecteur.png" alt="Lecteur AfterPlay" width="240">
+</p>
+
+- Likes, playlists et fichiers du téléphone, sans compte
+- La ligne de paroles en cours suit le titre
+- Qualité Haute, Moyenne ou Basse
+- Mode Voyage : déjà sur le téléphone, ou encore à télécharger
 
 ---
 
-Android player for likes, playlists and files already on the phone. No account required.
+Android player. Music keeps going when the network drops.
 
-**Site:** https://afterplay.dev
+**[Download at afterplay.dev](https://afterplay.dev)**
 
-AfterPlay is its own app, modified by Vander, based on RiMusic (GPL-3.0). The code is not in this repository.
+- Likes, playlists and files on the phone, no account
+- The current lyric line follows the title
+- High, Medium or Low quality
+- Trip mode: already on the phone, or still to download
+
+AfterPlay est une appli à part, modifiée par Vander, basée sur RiMusic (GPL-3.0). Le code n’est pas dans ce dépôt.
